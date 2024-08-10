@@ -1,0 +1,38 @@
+thead{
+	background:#3c8dbc; 
+	color: black;
+	text-align: center;
+}
+th, td{
+	border-right: 1px solid #FFFFFF;
+	border-bottom: 1px solid #FFFFFF;
+	height: 40px;
+	
+}
+.tabla{
+	width: 70%;
+}
+.content_table{
+  	width: 100%;
+  	padding: 10px;
+  	margin-top: 30px;
+  	display: flex;
+  	justify-content: center;
+  	overflow-x: scroll;
+}
+.btn_tabla{ /*BOTONES DE TABLA*/
+	text-decoration: none;
+	padding: 5px 5px 5px 5px;
+	background-color: #6555FF;
+    color: #FFFFFF;
+    font-family: serif;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.optabla{
+	width: 100%;
+	height: auto;
+	margin-top: 2px;
+	padding-left: 35px;
+	margin-bottom: 2px;
+}
